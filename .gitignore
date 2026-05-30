@@ -1,0 +1,8 @@
+﻿pdb_data/
+processed_data/
+checkpoints/
+results/
+__pycache__/
+*.pyc
+*.pt
+*.pkl
